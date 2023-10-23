@@ -1,5 +1,4 @@
 const express = require('express')
-app = express()
 router = express.Router
 port = 3000
 
