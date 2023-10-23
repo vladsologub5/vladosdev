@@ -4,6 +4,7 @@
   "description": "",
   "main": "vlados.js",
   "scripts": {
+    "start": "nodemon vlados.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
